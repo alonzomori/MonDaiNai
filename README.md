@@ -1,6 +1,6 @@
-# Mondainai
+# MonDaiNai
 
-**Mondainai** is an app that helps connect people who want to give things away with people who need them. It reduces friction in:  
+**MonDaiNai** is an app that helps connect people who want to give things away with people who need them. It reduces friction in:  
 - Posting items to give away  
 - Selecting a date to meet for the trade  
 - Communicating with someone who speaks Japanese  
