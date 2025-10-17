@@ -1,13 +1,13 @@
-# MonDaiNai
+# MonDaiNai 
 
-**MonDaiNai** is an app that helps connect people who want to give things away with people who need them. It reduces friction in:  
-- Posting items to give away  
-- Selecting a date to meet for the trade  
-- Communicating with someone who speaks Japanese  
+**MonDaiNai** is an application designed to connect individuals who wish to give away items with those who need them. The platform minimizes friction in key areas, including:
+- Posting items for donation or giveaway
+- Scheduling meetups for item exchange
+- Facilitating communication with Japanese-speaking users
 
 ### ✨ Special Features
-- 🖼️ **AI Auto-Description Generator** – Take a picture of the item, and the app automatically generates a description.  
-- 🌐 **Japanese Translation** – The app translates messages to help users communicate seamlessly.  
+- 🖼️ **AI-Powered Item Description Generator** - Automatically creates clear and accurate descriptions for listings.  
+- 🌐 **Integrated Japanese Translation** – Enables smooth, multilingual communication between users.
 
 <div align="center">
 
