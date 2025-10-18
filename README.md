@@ -66,7 +66,7 @@ rails s
 
 ## Team Members
 - [Richard Williams](www.linkedin.com/in/richard-williams-65a39b33a)
-- [Alonzo Mori](http://www.linkedin.com/in/alonzomori)
+- [Alonzo Tomohiko Anderson](http://www.linkedin.com/in/alonzomori)
 - [Andrew Leemhuis](https://www.linkedin.com/in/andrew-leemhuis-01482718/)
 
 ## Contributing
